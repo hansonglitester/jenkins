@@ -52,9 +52,9 @@
 
                 <!--您可以使用<jmeterExtensions>配置元素将任何其他Java库添加到JMeter的lib / ext目录中。 -->
                 <configuration>
-                    <jmeterExtensions>
-                        <artifact>com.hsl.cn:ecode:0.0.1-SNAPSHOT</artifact>
-                    </jmeterExtensions>
+                    <!--<jmeterExtensions>-->
+                        <!--<artifact>com.hsl.cn:ecode:0.0.1-SNAPSHOT</artifact>-->
+                    <!--</jmeterExtensions>-->
 
 
                     <!--选取要执行的脚本 -->
