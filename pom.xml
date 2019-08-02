@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>jmeter_maven_jenkins</module>
+        <module>jmeter_maven2</module>
     </modules>
 
 
