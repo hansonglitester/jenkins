@@ -58,8 +58,7 @@
 
                     <!--选取要执行的脚本 -->
                     <testFilesIncluded>
-                        <jMeterTestFile>usermanager.jmx</jMeterTestFile>
-                        <jMeterTestFile>yly3.0.jmx</jMeterTestFile>
+                        <jMeterTestFile>PC20190723-1.jmx</jMeterTestFile>
                     </testFilesIncluded>
                     <!--报告文件尾部输出时间 -->
                     <appendResultsTimestamp>true</appendResultsTimestamp>
